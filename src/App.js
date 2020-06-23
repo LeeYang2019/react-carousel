@@ -6,7 +6,7 @@ import Featured from './components/featured/Featured';
 
 function App() {
   return (
-    <div className="App" style={{ height: '1000px', backgroundColor: 'green' }}>
+    <div className="App" style={{ height: '1000px', backgroundColor: 'blue' }}>
       <Header />
       <Featured />
       <Footer />
