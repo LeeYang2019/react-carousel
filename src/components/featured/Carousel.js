@@ -12,12 +12,6 @@ const Carousel = () => {
         speed: 500,
     }
 
-    const images = [
-        slide_one,
-        slide_two,
-        slide_three
-    ]
-
     return (
         <div
             className="carrousel_wrapper"
