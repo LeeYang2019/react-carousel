@@ -12,7 +12,6 @@ class TimeUntil extends Component {
     }
 
     getTimeUntil(deadline) {
-        console.log(Date.parse(deadline));
         const time = Date.parse(deadline) - Date.parse(new Date());
         if (time < 0) {
             console.log('The event has passed already');
