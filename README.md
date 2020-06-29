@@ -26,3 +26,4 @@ Link: bent-start.surge.sh
 
 ### `Screenshots of Application`
 
+![Screen Shot 2020-06-29 at 1 50 31 PM](https://user-images.githubusercontent.com/46943342/86038963-c3c58900-ba0f-11ea-93d5-98f7b55ad0a2.png)
