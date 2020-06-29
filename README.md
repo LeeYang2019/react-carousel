@@ -8,6 +8,21 @@ Much thanks to https://www.udemy.com/course/the-react-practice-course-learn-by-b
 
 ### `Goals`
 
+I learned the following from this project:
+
+<ol>
+    <li>Creating a project with React CLI.</li>
+    <li>Creating components.</li>
+    <li>Using third party libraries such as material-ui, react-reveal, react-scroll, etc.</li>
+    <li>Creating transitions on reveal and carrousel.</li>
+    <li>Using parts of material-ui to make my app better.</li>
+    <li>Deploying static webpages to SURGE.</li>
+</ol>
+
+
 ### `Link to Deployed Application`
 
+Link: bent-start.surge.sh
+
 ### `Screenshots of Application`
+
