@@ -36,7 +36,7 @@ const VenueInfo = () => {
                                 >
                                 </div>
                                 <div className="vn_title">Event Location</div>
-                                <div className="vn_desc">Madison WI</div>
+                                <div className="vn_desc">Rogers Center Toronto ON</div>
                             </div>
                         </div>
                     </div>
